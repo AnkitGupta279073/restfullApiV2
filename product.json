@@ -1,0 +1,42 @@
+[
+    {
+        "name":"iphone",
+        "price":154,
+        "feature":true,
+        "company":"apple"
+
+    },
+    {
+        "name":"iphone10",
+        "price":1154,
+        "feature":true,
+        "company":"apple"
+
+    },
+    {
+        "name":"watch",
+        "price":1254,
+        "company":"apple"
+
+    },
+    {
+        "name":"ipod",
+        "price":1534,
+        "company":"vivo"
+
+    },
+    {
+        "name":"ear phone",
+        "price":154,
+        "feature":true,
+        "company":"samsung"
+
+    },
+    {
+        "name":"ear drop",
+        "price":154,
+        "feature":true,
+        "company":"realme"
+
+    }
+]
